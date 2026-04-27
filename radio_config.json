@@ -1,0 +1,10 @@
+{
+  "app_version": "0.0.1",
+  "stations": [
+    {
+      "name": "Авторадио",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4693aff.svg",
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8?radiostatistica=101.ru"
+    }
+  ]
+}
