@@ -1,10 +1,155 @@
 {
-  "app_version": "0.0.1",
+  "app_version": "0.5.0",
   "stations": [
     {
       "name": "Авторадио",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4693aff.svg",
-      "stream_url": "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8?radiostatistica=101.ru"
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/100?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI4ZDYyMzgzZWUwYThjY2Y0YTBkNmJiYzYzMzExZThmZCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAwIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTB9.XRH6NeETFAdhSxvOYU1zs_NPyR57LfIK8T_Oh_KlW2U"
+    },
+    {
+      "name": "Маруся FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4829de2.svg",
+      "stream_url": "https://cdn.radio-holding.ru/marusya_default?radiostatistica=101.ru"
+    },
+    {
+      "name": "Relax FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea49899f7.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJjZWQ0ZjgyNDliZmQxZmYyMDk2MWIyOTQ3ZDQ0ZTliYiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjAwIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTF9.HXi1nbmBMCf5bQN0abnDNt6Bs6xLIaUC69iEozg2NJg"
+    },
+    {
+      "name": "Радио Дача",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46c6c86.svg",
+      "stream_url": "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64?radiostatistica=101.ru"
+    },
+    {
+      "name": "Русское радио",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46f31f4.svg",
+      "stream_url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Радио Романтика",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4699c70.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/101?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3NzczY2IxMmY2NDcxMzRlZjExOGNlNTYzYjE3OTRkOCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAxIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTN9.nR4ng1x7zskdnnv0Vpv9Tum7P4nFfjScAzJw3T-_ryE"
+    },
+    {
+      "name": "Европа Плюс",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4614252.svg",
+      "stream_url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Ретро FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea466b501.svg",
+      "stream_url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Радио Ваня",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/abd2780b444a56685a8c1906c465e52f.svg",
+      "stream_url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+    },
+    {
+      "name": "Радио 7",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46601c4.svg",
+      "stream_url": "https://hls-01-radio7.emgsound.ru/13/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Like FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4a234b7.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/219?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI2Y2UzMzA0NmExNjIzYjRmMGNkOTc1MzYyOGZhYTFlYiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjE5IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTd9.jXQNC0Wj7wjBvsDwkTcyH5QdeW-sId0-c5lyqHsF4sk"
+    },
+    {
+      "name": "Радио ЭНЕРДЖИ (NRG)",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4a7084c.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/99?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiIzOWEzYjM2M2NmMDJkMzZkMzZhMmRmN2M4NmYyMWQ3ZCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiOTkiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IiIsIkJyb3dzZXJWZXJzaW9uIjoiIiwiU3lzdGVtIjoiVW5rbm93biIsImV4cCI6MTc3NzQ4MjQ5OH0.iNZ0lrLijJQREvDpRiyuun_SUi_pl24r-kJucRnzR7M"
+    },
+    {
+      "name": "Comedy Radio",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46a6be4.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/202?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI5ZTc0NWYyNjljZDg0MzI2MTM5ZmJmMmEwNDE1MGM0OSIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjAyIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTl9.xXzlHRPXKPh-QvdemHwQNE8PEtXHIYHgB8CaygrAnvQ"
+    },
+    {
+      "name": "Юмор FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46a0bbf.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/102?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI5MjBmNmU3M2Q2YmNjMGMxMGQ2MjRkOGUyN2MxYmU4ZSIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAyIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTl9.5p28ZhxzTnUddTxgjiZ4r1BSaHQrCBmDjNL6fgExMBA"
+    },
+    {
+      "name": "Детское радио",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46ae42d.svg",
+      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/199?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI1MmEyYWMwNjk2ODc0NTRmZjIzNGM1MGY0ODFmYjY4YiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTk5IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI1MDB9.yec14Mhgv-eShFYLlb5tEs7nt3hSipd1DKpTcgkCMX0"
+    },
+    {
+      "name": "Русская Волна",
+      "image_url": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/26ab4f651d4740b0187d106e2c495fce.png?w=300&h=300&pos=center&q=100&t=1748521156",
+      "stream_url": "https://ru.amgradio.ru/RuWave48?101ru"
+    },
+    {
+      "name": "Дорожное радио",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea463a55d.svg",
+      "stream_url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Новое Радио",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4685f15.svg",
+      "stream_url": "https://hls.newradio.ru/novoeradio/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "STUDIO 21",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea468cbf7.svg",
+      "stream_url": "https://hls.studio21.ru/studio21/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Ретро Хит",
+      "image_url": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/19d992b0a926a5163acfee7225afcafd.png?w=300&h=300&pos=center&q=100&t=1748422494",
+      "stream_url": "https://retro.amgradio.ru/Retro?101ru"
+    },
+    {
+      "name": "Remix FM",
+      "image_url": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/9afbf3f1c91412458bdc2f7c72e58e84.png?w=300&h=300&pos=center&q=100&t=1748422466",
+      "stream_url": "https://rmx.amgradio.ru/RemixFM?101ru"
+    },
+    {
+      "name": "Love Radio",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46b8027.svg",
+      "stream_url": "https://microit2.n340.com:8443/VgMv0WV17ZVx1uuo_12_love_64?radiostatistica=101.ru"
+    },
+    {
+      "name": "Восток FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46be120.svg",
+      "stream_url": "https://microit.n340.com:8443/VgMv0WV17ZVx1uuo_18_vostok_64_reg_1?radiostatistica=101.ru"
+    },
+    {
+      "name": "Русский Хит",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46ceb8e.svg",
+      "stream_url": "https://microit.n340.com:8443/VgMv0WV17ZVx1uuo_19_ruhit_64_reg_1?radiostatistica=101.ru"
+    },
+    {
+      "name": "Такси FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46d9039.svg",
+      "stream_url": "https://microit.n340.com:8443/VgMv0WV17ZVx1uuo_13_taxi_64?radiostatistica=101.ru"
+    },
+    {
+      "name": "Радио Monte Carlo",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46e43f1.svg",
+      "stream_url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "MAXIMUM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea470b6c1.svg",
+      "stream_url": "https://hls-01-maximum.hostingradio.ru/maximum/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Хит FM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea47158d8.svg",
+      "stream_url": "https://hitfm.hostingradio.ru/hitfm96.aacp?radiostatistica=101.ru"
+    },
+    {
+      "name": "DFM",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea471f59a.svg",
+      "stream_url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8?radiostatistica=101.ru"
+    },
+    {
+      "name": "Радио Комсомольская правда",
+      "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea47287b0.svg",
+      "stream_url": "https://hls-01-kpradio.hostingradio.ru/kpradio/playlist.m3u8?radiostatistica=101.ru"
     }
   ]
 }
