@@ -1,10 +1,10 @@
 {
-  "app_version": "0.5.0",
+  "app_version": "0.5.1",
   "stations": [
     {
       "name": "Авторадио",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4693aff.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/100?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI4ZDYyMzgzZWUwYThjY2Y0YTBkNmJiYzYzMzExZThmZCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAwIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTB9.XRH6NeETFAdhSxvOYU1zs_NPyR57LfIK8T_Oh_KlW2U"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8?radiostatistica=101.ru"
     },
     {
       "name": "Маруся FM",
@@ -14,7 +14,7 @@
     {
       "name": "Relax FM",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea49899f7.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJjZWQ0ZjgyNDliZmQxZmYyMDk2MWIyOTQ3ZDQ0ZTliYiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjAwIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTF9.HXi1nbmBMCf5bQN0abnDNt6Bs6xLIaUC69iEozg2NJg"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/relaxfm7/playlist.m3u8?format=ts&radiostatistica=101.ru"
     },
     {
       "name": "Радио Дача",
@@ -29,7 +29,7 @@
     {
       "name": "Радио Романтика",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4699c70.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/101?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3NzczY2IxMmY2NDcxMzRlZjExOGNlNTYzYjE3OTRkOCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAxIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTN9.nR4ng1x7zskdnnv0Vpv9Tum7P4nFfjScAzJw3T-_ryE"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/romantika495/playlist.m3u8?format=ts&radiostatistica=101.ru"
     },
     {
       "name": "Европа Плюс",
@@ -54,27 +54,27 @@
     {
       "name": "Like FM",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4a234b7.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/219?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI2Y2UzMzA0NmExNjIzYjRmMGNkOTc1MzYyOGZhYTFlYiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjE5IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTd9.jXQNC0Wj7wjBvsDwkTcyH5QdeW-sId0-c5lyqHsF4sk"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/likefm7/playlist.m3u8?format=ts&radiostatistica=101.ru"
     },
     {
       "name": "Радио ЭНЕРДЖИ (NRG)",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea4a7084c.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/99?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiIzOWEzYjM2M2NmMDJkMzZkMzZhMmRmN2M4NmYyMWQ3ZCIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiOTkiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IiIsIkJyb3dzZXJWZXJzaW9uIjoiIiwiU3lzdGVtIjoiVW5rbm93biIsImV4cCI6MTc3NzQ4MjQ5OH0.iNZ0lrLijJQREvDpRiyuun_SUi_pl24r-kJucRnzR7M"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/energyfm7/playlist.m3u8?radiostatistica=101.ru"
     },
     {
       "name": "Comedy Radio",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46a6be4.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/202?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI5ZTc0NWYyNjljZDg0MzI2MTM5ZmJmMmEwNDE1MGM0OSIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMjAyIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTl9.xXzlHRPXKPh-QvdemHwQNE8PEtXHIYHgB8CaygrAnvQ"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/comedyradio7/playlist.m3u8?format=ts&radiostatistica=101.ru"
     },
     {
       "name": "Юмор FM",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46a0bbf.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/102?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI5MjBmNmU3M2Q2YmNjMGMxMGQ2MjRkOGUyN2MxYmU4ZSIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTAyIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI0OTl9.5p28ZhxzTnUddTxgjiZ4r1BSaHQrCBmDjNL6fgExMBA"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/humorfm7/playlist.m3u8?radiostatistica=101.ru"
     },
     {
       "name": "Детское радио",
       "image_url": "https://cdn0.101.ru/vardata/modules/channel/image/69eeea46ae42d.svg",
-      "stream_url": "https://srv01.gpmradio.ru:443/stream/air/aac/64/199?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI1MmEyYWMwNjk2ODc0NTRmZjIzNGM1MGY0ODFmYjY4YiIsIklQIjoiMTg1LjYuMTI3LjIxMiIsIlVBIjoicHl0aG9uLXJlcXVlc3RzLzIuMzIuMyIsIlJlZiI6IiIsInVpZF9jaGFubmVsIjoiMTk5IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiIiLCJCcm93c2VyVmVyc2lvbiI6IiIsIlN5c3RlbSI6IlVua25vd24iLCJleHAiOjE3Nzc0ODI1MDB9.yec14Mhgv-eShFYLlb5tEs7nt3hSipd1DKpTcgkCMX0"
+      "stream_url": "https://hls-01-gpm.hostingradio.ru/detifm7/playlist.m3u8?format=ts&radiostatistica=101.ru"
     },
     {
       "name": "Русская Волна",
